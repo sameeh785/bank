@@ -1,0 +1,15 @@
+#total{
+    display: inline-block;
+    background-color: black;
+    color: white; 
+    margin-left: 70px;
+}
+
+#withdraw{
+    margin-left: 30%;
+    margin-top: -2.5%;
+}
+#deposit{
+    margin-left: 5%;
+    margin-top: -2.5%;
+}
